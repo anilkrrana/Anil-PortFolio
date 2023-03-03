@@ -1,4 +1,3 @@
-import "./App.css";
 import About from "./Components/About";
 // import Blogs from "./Components/Blogs";
 import Contact from "./Components/Contact";
@@ -17,7 +16,6 @@ function App() {
       <About />
       <Projects />
       <EdSkills />
-      {/* <Blogs /> */}
       <Contact />
     </div>
   );

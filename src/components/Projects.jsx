@@ -12,8 +12,8 @@ const Projects = () => {
     {
       id: 1,
       image: PortFolio,
-      demoLink: '#',
-      codeLink: '',
+      demoLink: 'https://anilkrrana.github.io/Anil-PortFolio/',
+      codeLink: 'https://github.com/anilkrrana/Anil-PortFolio',
     },
     {
       id: 2,
@@ -25,7 +25,7 @@ const Projects = () => {
       id: 3,
       image: Qrcode,
       demoLink: 'https://anilkrrana.github.io/QR-code-generator/',
-      codeLink: 'https://anilkrrana.github.io/QR-code-generator/',
+      codeLink: 'https://github.com/anilkrrana/QR-code-generator',
     },
     {
       id: 4,
