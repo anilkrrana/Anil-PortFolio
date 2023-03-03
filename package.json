@@ -1,12 +1,15 @@
 {
   "name": "portfolio-anil",
+  "homepage" : "https://anilkrrana.github.io/Anil-PortFolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "react": "^18.2.0",
