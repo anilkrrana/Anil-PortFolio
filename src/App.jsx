@@ -1,11 +1,11 @@
-import About from "./Components/About";
+import About from "./components/About";
 // import Blogs from "./Components/Blogs";
-import Contact from "./Components/Contact";
-import EdSkills from "./Components/EdSkills";
+import Contact from "./components/Contact";
+import EdSkills from "./components/EdSkills";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
-import Projects from "./Components/Projects";
-import SocialLinks from "./Components/SocialLinks";
+import Projects from "./components/Projects";
+import SocialLinks from "./components/SocialLinks";
 
 function App() {
   return (
