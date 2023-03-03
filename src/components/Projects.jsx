@@ -19,26 +19,27 @@ const Projects = () => {
       id: 2,
       image: TravelEase,
       demoLink: 'https://codesandbox.io/s/github/anilkrrana/React-Tour-Travel-Website',
-      codeLink: 'https://codesandbox.io/s/github/anilkrrana/React-Tour-Travel-Website',
+      codeLink: 'https://github.com/anilkrrana/React-Tour-Travel-Website',
     },
     {
       id: 3,
+      image: LandingPage,
+      demoLink: 'https://landing-page-animate-on-scroll.vercel.app',
+      codeLink: 'https://github.com/anilkrrana/Landing_page_animate_on_scroll',
+      },
+    {
+      id: 4,
       image: Qrcode,
       demoLink: 'https://anilkrrana.github.io/QR-code-generator/',
       codeLink: 'https://github.com/anilkrrana/QR-code-generator',
     },
     {
-      id: 4,
+      id: 5,
       image: MemeGenerator,
       demoLink: '#',
       codeLink: '',
     },
-    {
-    id: 5,
-    image: LandingPage,
-    demoLink: '#',
-    codeLink: '',
-    },
+    
     // {
     //   id: 6,
     //   image: YoutubeClone,
