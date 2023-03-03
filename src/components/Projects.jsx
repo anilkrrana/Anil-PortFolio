@@ -12,7 +12,7 @@ const Projects = () => {
     {
       id: 1,
       image: PortFolio,
-      demoLink: 'https://anilkrrana.github.io/Anil-PortFolio/',
+      demoLink: 'https://anil-port-folio.vercel.app/',
       codeLink: 'https://github.com/anilkrrana/Anil-PortFolio',
     },
     {
