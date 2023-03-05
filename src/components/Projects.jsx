@@ -4,6 +4,7 @@ import TravelEase from '../assets/TravelEase.png'
 import Qrcode from '../assets/Qr-code-generator.png'
 import MemeGenerator from '../assets/meme-generator.png'
 import LandingPage from '../assets/landing-page.png'
+import YoutubeClone from '../assets/youtube-clone.png'
 
 
 
@@ -17,24 +18,30 @@ const Projects = () => {
     },
     {
       id: 2,
+      image: YoutubeClone,
+      demoLink: 'https://youtube-clone-anilkrrana.vercel.app/',
+      codeLink: 'https://github.com/anilkrrana/youtube_clone',
+    },
+    {
+      id: 3,
       image: TravelEase,
       demoLink: 'https://codesandbox.io/s/github/anilkrrana/React-Tour-Travel-Website',
       codeLink: 'https://github.com/anilkrrana/React-Tour-Travel-Website',
     },
     {
-      id: 3,
+      id: 4,
       image: LandingPage,
       demoLink: 'https://landing-page-animate-on-scroll.vercel.app',
       codeLink: 'https://github.com/anilkrrana/Landing_page_animate_on_scroll',
       },
     {
-      id: 4,
+      id: 5,
       image: Qrcode,
       demoLink: 'https://anilkrrana.github.io/QR-code-generator/',
       codeLink: 'https://github.com/anilkrrana/QR-code-generator',
     },
     {
-      id: 5,
+      id: 6,
       image: MemeGenerator,
       demoLink: '#',
       codeLink: '',
