@@ -5,6 +5,7 @@ import Qrcode from '../assets/Qr-code-generator.png'
 import MemeGenerator from '../assets/meme-generator.png'
 import LandingPage from '../assets/landing-page.png'
 import YoutubeClone from '../assets/youtube-clone.png'
+import TodosList from '../assets/todos-list.png'
 
 
 
@@ -42,6 +43,12 @@ const Projects = () => {
     },
     {
       id: 6,
+      image: TodosList,
+      demoLink: 'simbt-02-todos-list.vercel.app',
+      codeLink: 'https://github.com/anilkrrana/SIMBT_02-Todos-List',
+    },
+    {
+      id: 7,
       image: MemeGenerator,
       demoLink: '#',
       codeLink: '',
