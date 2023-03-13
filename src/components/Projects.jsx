@@ -47,12 +47,12 @@ const Projects = () => {
       demoLink: 'simbt-02-todos-list.vercel.app',
       codeLink: 'https://github.com/anilkrrana/SIMBT_02-Todos-List',
     },
-    {
-      id: 7,
-      image: MemeGenerator,
-      demoLink: '#',
-      codeLink: '',
-    },
+    // {
+    //   id: 7,
+    //   image: MemeGenerator,
+    //   demoLink: '#',
+    //   codeLink: '',
+    // },
     
     // {
     //   id: 6,
