@@ -44,7 +44,7 @@ const Projects = () => {
     {
       id: 6,
       image: TodosList,
-      demoLink: 'simbt-02-todos-list.vercel.app',
+      demoLink: 'https://simbt-02-todos-list.vercel.app',
       codeLink: 'https://github.com/anilkrrana/SIMBT_02-Todos-List',
     },
     // {
