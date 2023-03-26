@@ -153,7 +153,7 @@ const EdSkill = () => {
     ]
 
     return (
-        <div name="EdSkills" className="w-full sm:h-screen md:h-screen sm:py-[40%] pt-[15%] bg-gradient-to-b from-gray-800 to-black text-white">
+        <div name="EdSkills" className="w-full sm:h-screen md:h-screen sm:py-[5%] bg-gradient-to-b from-gray-800 to-black text-white">
 
             <div className="max-w-screen-lg p-2 mx-auto flex flex-col justify-center w-full h-full text-white">
 

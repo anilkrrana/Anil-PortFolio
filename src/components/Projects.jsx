@@ -6,7 +6,7 @@ import MemeGenerator from '../assets/meme-generator.png'
 import LandingPage from '../assets/landing-page.png'
 import YoutubeClone from '../assets/youtube-clone.png'
 import TodosList from '../assets/todos-list.png'
-
+import QuizApp from '../assets/quizapp.png'
 
 
 const Projects = () => {
@@ -34,15 +34,21 @@ const Projects = () => {
       image: LandingPage,
       demoLink: 'https://landing-page-animate-on-scroll.vercel.app',
       codeLink: 'https://github.com/anilkrrana/Landing_page_animate_on_scroll',
-      },
+    },
     {
       id: 5,
+      image: QuizApp,
+      demoLink: 'https://simbt-04-quiz-app.vercel.app/',
+      codeLink: 'https://github.com/anilkrrana/SIMBT_04_Quiz-app',
+      },
+    {
+      id: 6,
       image: Qrcode,
       demoLink: 'https://anilkrrana.github.io/QR-code-generator/',
       codeLink: 'https://github.com/anilkrrana/QR-code-generator',
     },
     {
-      id: 6,
+      id: 7,
       image: TodosList,
       demoLink: 'https://simbt-02-todos-list.vercel.app',
       codeLink: 'https://github.com/anilkrrana/SIMBT_02-Todos-List',
@@ -66,7 +72,7 @@ const Projects = () => {
   return (
     <div
       name='Projects'
-      className='bg-gradient-to-b from-black to-gray-800 pt-[20%] w-full sm:h-screen md:h-screen text-white'
+      className='bg-gradient-to-b from-black to-gray-800 pt-[5%] w-full  text-white'
     >
       <div className='max-w-screen-lg p-2 mx-auto flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
