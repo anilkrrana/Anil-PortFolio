@@ -71,7 +71,7 @@ const Projects = () => {
 
   return (
     <div
-      name='Projects'
+      name='Projectss'
       className='bg-gradient-to-b from-black to-gray-800 pt-[5%] w-full  text-white'
     >
       <div className='max-w-screen-lg p-2 mx-auto flex flex-col justify-center w-full h-full'>
