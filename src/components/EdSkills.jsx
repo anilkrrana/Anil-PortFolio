@@ -1,6 +1,6 @@
 import React from "react";
 import { FaBootstrap, FaCss3, FaHtml5, FaReact } from "react-icons/fa";
-import { SiCanva, SiExpress, SiFigma, SiGit, SiGithub, SiJavascript, SiNodedotjs, SiRedux, SiTailwindcss } from 'react-icons/si'
+import { SiCanva, SiExpress, SiFigma, SiGit, SiGithub, SiJavascript, SiMaterialui, SiNextdotjs, SiNodedotjs, SiRedux, SiTailwindcss } from 'react-icons/si'
 
 const EdSkill = () => {
 
@@ -60,28 +60,28 @@ const EdSkill = () => {
                 </>
             )
         },
-        // {
-        //     id: 6,
-        //     name: "Node Js",
-        //     shadow: "text-green-500",
-        //     shadow1:"shadow-green-500",
-        //     style: (
-        //         <>
-        //             <SiNodedotjs size={80} />
-        //         </>
-        //     )
-        // },
-        // {
-        //     id: 7,
-        //     name: "Express",
-        //     shadow: "text-gray-600",
-        //     shadow1:"shadow-gray-600",
-        //     style: (
-        //         <>
-        //             <SiExpress size={80} />
-        //         </>
-        //     )
-        // },
+        {
+            id: 6,
+            name: "Next Js",
+            shadow: "text-green-500",
+            shadow1:"shadow-green-500",
+            style: (
+                <>
+                    <SiNextdotjs size={80} />
+                </>
+            )
+        },
+        {
+            id: 7,
+            name: "MUI",
+            shadow: "text-gray-600",
+            shadow1:"shadow-gray-600",
+            style: (
+                <>
+                    <SiMaterialui size={80} />
+                </>
+            )
+        },
         {
             id: 8,
             name: "BootStrap",
@@ -153,9 +153,9 @@ const EdSkill = () => {
     ]
 
     return (
-        <div name="EdSkills" className="w-full sm:h-screen md:h-screen sm:py-[5%] bg-gradient-to-b from-gray-800 to-black text-white">
+        <div name="EdSkills" className="w-full pt-[5%] bg-gradient-to-b from-gray-800 to-black text-white">
 
-            <div className="max-w-screen-lg p-2 mx-auto flex flex-col justify-center w-full h-full text-white">
+            <div className="max-w-screen-lg p-2 mx-auto flex flex-col justify-center w-full h-full  text-white">
 
                 <div className="pb-1">
                     <p className="text-4xl font-bold inline border-b-4 p-2 border-gray-500">
