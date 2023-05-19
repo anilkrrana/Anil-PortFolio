@@ -162,7 +162,7 @@ const EdSkill = () => {
                         Experience
                     </p>
                     <p className="p-6">
-                        These are the technologies I've worked with
+                        These are the technologies I've experienced with
                     </p>
                 </div>
 
