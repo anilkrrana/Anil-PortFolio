@@ -27,7 +27,7 @@ const Home = () => {
                     </p>
 
                     <div>
-                        <Link to="Projects" smooth duration={500} className='w-fit text-white px-6 py-3 my-2 flex items-center cursor-pointer rounded-md bg-gradient-to-r from-purple-700 to-orange-600 font-bold'>
+                        <Link to="Projects" smooth duration={500} className='w-fit text-white px-6 py-3 my-2 flex items-center cursor-pointer rounded-md bg-gradient-to-r from-purple-800 to-blue-200 font-bold'>
                             Projects
                             <span className='hover:rotate-90 duration-500'>
                                 <FaArrowRight
