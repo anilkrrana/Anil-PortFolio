@@ -14,7 +14,7 @@ const Contact = () => {
           <FaLinkedin size={30} className="ml-2 text-white" />
         </>
       ),
-      link: "https://www.linkedin.com/in/prathamesh-bhalke-174b90226",
+      link: "https://www.linkedin.com/in/anil-rana-09a283227/",
     },
     {
       id: 2,
@@ -24,7 +24,7 @@ const Contact = () => {
           <FaGithub size={30} className="ml-2 text-white" />
         </>
       ),
-      link: "https://github.com/prathambhalke",
+      link: "https://github.com/anilkrrana",
     },
     {
       id: 3,
@@ -34,7 +34,7 @@ const Contact = () => {
           <AiOutlineMail size={30} className="ml-2 text-white" />
         </>
       ),
-      link: "mailto:bhalkeprathamesh11@gmail.com",
+      link: "mailto:er.anilkrana@gmail.com",
     },
     {
       id: 4,
@@ -44,7 +44,7 @@ const Contact = () => {
           <FaTwitter size={30} className="ml-2 text-white" />
         </>
       ),
-      link: "https://twitter.com/prathambhalke",
+      link: "https://twitter.com/prathambhalkhttps://twitter.com/AnilKum64907224",
     },
     {
       id: 5,
@@ -54,7 +54,7 @@ const Contact = () => {
           <BsPersonLinesFill size={30} className="ml-2 text-white" />
         </>
       ),
-      link: "https://drive.google.com/file/d/1gdk64-GwRa_p3rarr4RlXm0ZUSwGZ2RQ/view?usp=share_link",
+      link: "https://drive.google.com/file/d/12XgU9RxrSAtGUTEmM7Og0W0yAHon3fds/view?usp=sharing",
     },
   ];
 
